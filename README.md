@@ -17,4 +17,4 @@
 * Entre na pasta do projeto\
 ```cd fem-single-price-grid-component```
 * No navegador de sua preferência, abra o arquivo index.html do projeto\
-```.../fem-three-column-preview-card-component/index.html```
+```.../fem-single-price-grid-component/index.html```
